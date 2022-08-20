@@ -23,7 +23,7 @@ export default {
     data() { 
         return {
             title: "Hello I'm Haşim",
-            content: "I am developing myself in the field of Front End, which I continue to learn with love and enjoyment, and I am working to specialize in this field. I also do designs in the web field.",
+            content: "I am developing myself in the field of Front End, which I continue to learn with love and enjoyment and I am working to specialize in this field. I also do designs in the web field.",
             subTitle:'Front-End Developer',
             subTitle2:'Management Information System Student',
             url:'https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif'
